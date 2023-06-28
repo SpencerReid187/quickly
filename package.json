@@ -1,6 +1,6 @@
 {
   "name": "quickly.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Discord botu için kolaylık sağlar.",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,18 @@
   "bugs": {
     "url": "https://github.com/SpencerReid187/quickly/issues"
   },
-  "homepage": "https://github.com/SpencerReid187/quickly#readme"
+  "homepage": "https://github.com/SpencerReid187/quickly#readme",
+  "devDependencies": {
+    "@types/jsdom": "^21.1.1",
+    "discord.js": "^14.11.0",
+    "mongoose": "^7.3.1",
+    "ts-node": "^10.9.1",
+    "typedoc": "^0.24.8",
+    "typescript": "^5.1.5"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "jsdom": "^22.1.0",
+    "sourcebin": "^5.0.0"
+  }
 }
