@@ -1,7 +1,7 @@
 {
   "name": "quickly.js",
-  "version": "1.0.2",
-  "description": "Discord botu için kolaylık sağlar.",
+  "version": "1.0.3",
+  "description": "Discord botunuzu kodlama yöntemlerini yapılandırmak ve geliştirmek için basit bir API. discord.js v14 ile uyumludur.",
   "main": "index.js",
   "scripts": {
     "test": "test"
@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/SpencerReid187/quickly/issues"
   },
-  "homepage": "https://github.com/SpencerReid187/quickly#readme",
+  "homepage": "https://github.com/SpencerReid187/quickly/",
   "devDependencies": {
     "@types/jsdom": "^21.1.1",
     "discord.js": "^14.11.0",
