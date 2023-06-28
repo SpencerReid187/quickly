@@ -1,0 +1,22 @@
+{
+  "name": "quickly.js",
+  "version": "1.0.1",
+  "description": "Discord botu için kolaylık sağlar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpencerReid187/quickly.git"
+  },
+  "keywords": [
+    "Helper"
+  ],
+  "author": "luciferbmorningstar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpencerReid187/quickly/issues"
+  },
+  "homepage": "https://github.com/SpencerReid187/quickly#readme"
+}
