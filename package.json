@@ -1,6 +1,6 @@
 {
   "name": "quickly.js",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Discord botunuzu kodlama yöntemlerini yapılandırmak ve geliştirmek için basit bir API. discord.js v14 ile uyumludur.",
   "main": "index.js",
   "scripts": {
