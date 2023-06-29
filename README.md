@@ -19,6 +19,5 @@ Discord botunuzu kodlama yöntemlerini yapılandırmak ve geliştirmek için bas
 - [quicklyDB](https://discord.gg/nf379ttHKg) - Verileri hızlı yanıt süreleri için önbelleğe alan basit fonksiyonlarla MongoDB'ye veri depolama (get, set, delete, push).
 - [starboard](https://discord.gg/nf379ttHKg) - Her birine tepki verildiğinde her seferinde 100 mesaj getirmeyen bir starboard sistemi, ahaha.
 - [generateTranscript](https://discord.gg/nf379ttHKg) - Bir mesaj dizisiyle benzeri bir Discord transkripti kolayca oluşturun! 
-- [chatBot](https://discord.gg/nf379ttHKg) - API anahtarı olmadan kolay bir sohbet botu
 
 daha çok özellik yakında
