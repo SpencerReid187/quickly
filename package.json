@@ -1,13 +1,13 @@
 {
   "name": "quickly.js",
-  "version": "1.0.5",
+  "version": "1.0.6",
+  "description": "Discord botunuzu kodlama yöntemlerini yapılandırmak ve geliştirmek için basit bir API. discord.js v14 ile uyumludur.",
   "main": "index.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SpencerReid187/quickly.git"
+    "url": "https://github.com/SpencerReid187/quickly"
   },
   "keywords": [
     "Helper"
